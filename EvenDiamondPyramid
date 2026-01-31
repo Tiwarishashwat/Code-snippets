@@ -1,4 +1,4 @@
-public class DiamondPattern {
+public class EvenDiamondPattern {
     public static void main(String[] args) {
         // even diamond pyramid
         System.out.println("even Diamond Pyramid");
